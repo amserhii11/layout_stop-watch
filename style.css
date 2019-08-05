@@ -1,6 +1,7 @@
+
 .clock-timer {
-  width: 1000px;
-  height: 1000px;
+  width: 600px;
+  height: 600px;
 }
 
 .minute-clock {
@@ -27,7 +28,7 @@
 
 .center-clock {
   position: absolute;
-  left: 940px;
+  left: 49.1%;
   bottom: 49.5%;
   border-radius: 20px;
   background-color: rgb(21, 104, 121);
